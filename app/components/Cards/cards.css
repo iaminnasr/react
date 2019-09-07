@@ -1,0 +1,28 @@
+.badgeoff{
+    border: 1px solid transparent;
+    background-color: rgba(230, 43, 85, 0.8);
+    border-bottom-right-radius: 30px;
+    height: 10px;
+    display: inline-block;
+    width: 55px;
+    height: 35px;
+    text-align: center;
+    left: 0px;
+    z-index: 999;
+    position: absolute;
+}
+.imagecard{
+position: relative;
+}
+.border-bottom-radius{
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important
+}
+.icon-font{
+    font-size: 15px;
+    vertical-align: bottom;
+}
+.rate{
+    font-size: 15px;
+    direction: ltr;
+}
